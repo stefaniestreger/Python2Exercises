@@ -61,4 +61,4 @@ class Miles_Per_Gallon: # Create class for MPG GUI
         self.average_mpg.set(self.average) # Set result to StringVar in class
 
 
-avg_mpg = Miles_Per_Gallon()  # Create an instance of the Miles_Per_Gallon class
+avg_mpg = Miles_Per_Gallon()   # Create an instance of the Miles_Per_Gallon class
