@@ -111,4 +111,4 @@ class Automotive: # Create class
 
 
 # Create an instance of the Automotive class
-user_choices = Automotive()
+user_choices = Automotive() 
