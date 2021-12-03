@@ -20,4 +20,4 @@ def print_lines(n):
 
 user_value = int(input('How many lines to display? ')) # ask for user input to set value to pass to function
 
-print_lines(user_value) # call print_lines function with user_value param passed to it
+print_lines(user_value) # call print_lines function with user_value param passed to it 
