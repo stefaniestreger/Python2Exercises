@@ -26,4 +26,4 @@ class StateFlag: # Create class for state flag of TN
         tkinter.mainloop()
 
 
-my_flag = StateFlag()
+my_flag = StateFlag() 
